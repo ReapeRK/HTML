@@ -6,6 +6,10 @@
 	border: none;
 }
 
+body{
+	background-color: darkgray;
+}
+
 .fa:hover {
   color: darkblue;
 }
