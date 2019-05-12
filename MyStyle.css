@@ -1,0 +1,15 @@
+.fa {
+  font-size: 40px;
+  cursor: pointer;
+  user-select: none;
+	color: green;
+	border: none;
+}
+
+.fa:hover {
+  color: darkblue;
+}
+
+#align{
+	padding-left: 400px;
+}
